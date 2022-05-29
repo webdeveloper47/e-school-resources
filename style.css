@@ -1,0 +1,138 @@
+
+/* header start */
+
+
+
+header{
+    background: #F0FFF0;
+    width: 100%;
+    height: 530px;
+}
+
+.logo-img{
+    width: 118px;
+    height: 29px;
+    
+}
+
+.all-buuton-design{
+    border: none;
+    border-radius: 33px;
+    background: #21B573;
+    width: 104px;
+    height: 43px;
+    color: white;
+}
+
+
+.img-right-div{
+    width: 504px;
+    height: 346px;
+    margin-top: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+
+.header-left-div{
+    margin-top: 110px;
+    
+}
+
+.header-left-div h1{
+    font-weight: bolder;
+}
+
+.header-left-div h1 span{
+    color: #21B573;
+}
+
+
+
+/* header End */
+
+
+
+/* card start */
+
+.img-card{
+    width: 64px;
+    height: 85px;
+    align-self: center;
+    margin-top: 70px;
+    margin-bottom: 15px;
+
+
+
+}
+
+.card-design{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 270px;
+    height: 270px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+    transition: .4s;
+}
+
+.card-design:hover{
+    transform: scale(0.9);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+}
+
+/* card start */
+
+
+
+/* Online course start */
+
+.card-img-top{
+    padding: 15px;
+   
+}
+
+.card{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+    
+    margin-bottom: 100px;
+}
+
+
+/* Online course End */
+
+
+
+
+
+/* other start */
+.img-sizing{
+    width: 90px;
+    
+    
+}
+
+.media-section{
+    margin-top: 80px;
+
+    margin-bottom: 100px;
+}
+
+
+
+
+/* other End */
+
+
+/* blog start */
+.blog-section{
+    background: #282531;
+    width: 100%;
+    height: 363px;
+}
+
+/* blog End */
